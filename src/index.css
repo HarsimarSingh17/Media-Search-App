@@ -1,0 +1,14 @@
+@import "tailwindcss";
+*{
+    color: white;
+}
+
+:root{
+    --c1: rgb(1, 7, 54);
+    --c2: rgb(13, 28, 66);
+    --c3: rgb(34, 57, 111);
+    --c4: rgb(252, 241, 208);
+}
+#root{
+    background-color: rgb(17, 24, 39);
+}
